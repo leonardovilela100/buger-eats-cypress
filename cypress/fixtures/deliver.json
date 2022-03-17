@@ -1,0 +1,52 @@
+{
+    "signup": {
+        "name": "Leonardo Carvalho",
+        "cpf": "12370846607",
+        "email": "leovilela100@gmail.com",
+        "whatsapp": "34991817415",
+        "address": {
+            "postalcode": "38412442",
+            "street": "Avenida Babel",
+            "number": "353",
+            "details": "Casa",
+            "district": "Jardim Canaã",
+            "city_state": "Uberlândia/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_inv": {
+        "name": "Claudiene Carvalho",
+        "cpf": "x1237084aa6607",
+        "email": "leovilela100@gmail.com",
+        "whatsapp": "34991817415",
+        "address": {
+            "postalcode": "38412442",
+            "street": "Avenida Babel",
+            "number": "353",
+            "details": "Casa",
+            "district": "Jardim Canaã",
+            "city_state": "Uberlândia/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "email_inv": {
+        "name": "Leonardo Carvalho",
+        "cpf": "12370846607",
+        "email": "leovilela.com.br",
+        "whatsapp": "34991817415",
+        "address": {
+            "postalcode": "38412442",
+            "street": "Avenida Babel",
+            "number": "353",
+            "details": "Casa",
+            "district": "Jardim Canaã",
+            "city_state": "Uberlândia/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
