@@ -4,7 +4,7 @@
 
 ---
 
-Padrões de projeto e Page Objects em Cypress.
+Padrões de Projeto e Page Objects em Cypress.
 
 #### :information_source: O projeto de testes foi realizado sobre a aplicação [Buger Eats](https://buger-eats.vercel.app/), desenvolvida para a realização de cursos=)
 
