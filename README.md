@@ -25,3 +25,7 @@ Através do framework: Basta abrir o Cypress e através da interface dele escolh
 Após isso, é só escolher a spec desejada e assistir a execução dos testes.
 
 Feito por Leonardo Carvalho Vilela 👋
+
+
+https://user-images.githubusercontent.com/61808858/159625123-da8152ac-d554-4692-9e0b-f31ebecd3327.mp4
+
