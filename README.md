@@ -1,6 +1,6 @@
 # Projeto Buger Eats
 
-### - Curso - QAninja
+### - Curso QAninja
 
 ---
 
